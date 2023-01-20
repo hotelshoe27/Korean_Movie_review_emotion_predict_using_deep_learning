@@ -1,4 +1,4 @@
-# Korean_Movie_review_emotion_predict_using_deep_learning
+# Korean_Movie_review_emotion_prediction_using_deep_learning
 
 ***Korean movie review emotion prediction using deep learning***
 
