@@ -9,7 +9,8 @@ See requirements.txt before testing and check detail through source code👀
 
 ## 1_Crawling  
 ![12](https://user-images.githubusercontent.com/120359150/213603825-a6841028-e624-43fc-9e20-0e008c3f6cfe.PNG)  
-Crawling this web: https://movie.naver.com/movie/point/af/list.naver  
+https://movie.naver.com/movie/point/af/list.naver  
+Crawling upper web using 'Data_crawling.ipynb'  
 ❗This web pages is maybe limited 500 pages❗  
 
 ## 2_Labeling
