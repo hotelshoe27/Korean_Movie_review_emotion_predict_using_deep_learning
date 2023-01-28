@@ -32,5 +32,6 @@ In this project case, just used only Bi-LSTM. If you have a good idea, try apply
 | Normal | 초반부 제외하고 적당히 볼만해요 |
 | Positive | 너무 몰입해서 봤네요 시간가는 줄 몰랐음 |
 
-**Result**  
+**Result**
+**📌please modify: batch_size = 4  
 ![1](https://user-images.githubusercontent.com/120359150/215250054-61fbe765-6635-4a40-8407-992bdc6b2baf.PNG)  
