@@ -20,3 +20,17 @@ But I recommend just using 2 label(0: Negatice / 1: Positive).  Because most rev
 ## 3_Preprocessing & train  
 See detail through this source code.  
 In this project case, just used only Bi-LSTM. If you have a good idea, try applying!
+
+## 4_Test  
+
+**Input for testing**
+| Label | Input sample |
+| :--- | :--- |
+| Positive | 이 영화 너무 재밌다~~!! |
+| Negative | 이거 보지 마세요 진짜 재미 없어요 |
+| Negative | 표값 아까움 |
+| Normal | 초반부 제외하고 적당히 볼만해요 |
+| Positive | 너무 몰입해서 봤네요 시간가는 줄 몰랐음 |
+
+**Result**  
+![1](https://user-images.githubusercontent.com/120359150/215250054-61fbe765-6635-4a40-8407-992bdc6b2baf.PNG)  
